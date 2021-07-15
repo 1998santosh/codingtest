@@ -1,0 +1,19 @@
+.content{
+    text-align: center;
+    margin-top: 10%;
+    background-color: #fafafa;
+    padding: 35px;
+}
+#number{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+#btn{
+    padding: 5px;
+}
+#demo{
+    text-align: center;
+    margin-top: 5%;
+
+}
